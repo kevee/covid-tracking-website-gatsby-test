@@ -10,7 +10,7 @@ const Header = ({ siteTitle }) => (
     <header className="site-header">
       <div className="container">
         <a className="site-title" href="/">
-          {siteTitle}
+          🚨Test SITE, NOT FOR USE!🚨 {siteTitle}
         </a>
 
         <nav>
